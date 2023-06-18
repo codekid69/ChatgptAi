@@ -1,0 +1,51 @@
+{
+  
+    "articles": [
+    {
+      "title": " Talk to the AI like you would talk to a person",
+      "summary": "When I say talk to it like a person, I mean talk to it like you would a co-worker or team member. If that's hard to do, give it a name. Alexa is taken, so maybe think of it as 'Bob'. This helps because when you talk to Bob, you might include conversational details, little anecdotes that give your story texture, a variety of possibilities, and more.",
+      "occurance": [0]
+    },
+    {
+      "title": "  Set the stage and provide context",
+      "summary": "Writing a ChatGPT prompt is more than just asking a one-sentence question. It often involves providing relevant background information to set the context of the query.",
+      "occurance": [0,1]
+    },
+    {
+      "title": "  Tell the AI to assume an identity or profession",
+      "summary": "One of ChatGPT's coolest features is that it can write from the point of view of a specific person or profession. A few months ago, I showed how you can make ChatGPT write like it was a pirate or Shakespeare, but you can also have it write like it's a teacher, a marketing exec, a journalist, or any other perspective you want it to consider.",
+      "occurance": [0]
+    },
+    {
+      "title": "  Start with an action word",
+      "summary": "Do you want AI to take you seriously? Then always start your ChatGPT prompt with action words like Create, Write, Make, and Generate instead of starting with ‘Can you’",
+      "occurance": [1]
+    },
+    {
+      "title": "  Provide context",
+      "summary": "A doctor can better diagnose a patient's condition with a clear context of the symptoms. Similarly, ChatSonic can generate a relevant answer with enough context for your question",
+      "occurance": [0,1]
+    },
+    {
+      "title": "  Use role play.",
+      "summary": "If you cannot find your expert avatar in ChatSonic (we are adding more soon), you can ask ChatSonic to role-play. For example, you are seeking content marketing advice on improving brand awareness for your newly launched CRM software.",
+      "occurance": [1]
+    }
+
+  ],
+
+
+  "address":[
+    {
+        "titile":"How to write better ChatGPT prompts (and this applies to most other text-based AIs, too)",
+        "url":"https://www.zdnet.com/article/how-to-write-better-chatgpt-prompts/"
+    },
+    {
+        "titile":"How to write the perfect ChatGPT prompt and become a Prompt writer",
+        "url":"https://writesonic.com/blog/how-to-write-chatgpt-prompts/"
+    }
+  ]
+
+
+
+}
