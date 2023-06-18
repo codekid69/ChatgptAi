@@ -8,7 +8,7 @@
     },
     {
       "title": "  Set the stage and provide context",
-      "summary": "Writing a ChatGPT prompt is more than just asking a one-sentence question. It often involves providing relevant background information to set the context of the query.",
+      "summary": "Writing a ChatGPT prompt is more than just asking a one-sentence question. It often involves providing relevant background information to set the context of the query.A doctor can better diagnose a patient's condition with a clear context of the symptoms. Similarly, ChatSonic can generate a relevant answer with enough context for your question",
       "occurance": [0,1]
     },
     {
@@ -20,11 +20,6 @@
       "title": "  Start with an action word",
       "summary": "Do you want AI to take you seriously? Then always start your ChatGPT prompt with action words like Create, Write, Make, and Generate instead of starting with ‘Can you’",
       "occurance": [1]
-    },
-    {
-      "title": "  Provide context",
-      "summary": "A doctor can better diagnose a patient's condition with a clear context of the symptoms. Similarly, ChatSonic can generate a relevant answer with enough context for your question",
-      "occurance": [0,1]
     },
     {
       "title": "  Use role play.",
